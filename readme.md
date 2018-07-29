@@ -11,11 +11,11 @@ tsc -p ./tsconfig.json
 
 
 Todo and other considerations:
-[] basic login (so that we're not POSTing in the payload)
-[] `expiresIn` field
-[] refresh token endpoint
-[] token blacklist?
 
+- [ ] basic login (so that we're not POSTing in the payload)
+- [ ] `expiresIn` field
+- [ ] refresh token endpoint
+- [ ] token blacklist?
 # curls
 
 ```
